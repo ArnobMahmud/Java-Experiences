@@ -22,7 +22,6 @@ public class AreaOfTriangle {
 		
 		
 		area = (float) (0.5 * base * height);
-		
 		System.out.printf("The area of triangle is : %.2f",area);
 
 	}
