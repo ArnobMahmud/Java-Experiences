@@ -17,7 +17,7 @@ public class AlphabeticLoop {
 		
 		for ( var = 'A'; var <= 'Z'; var++) {
 			
-			System.out.println("The var is:" + var);
+		   System.out.println("The var is:" + var);
 		}
 		
 	}
