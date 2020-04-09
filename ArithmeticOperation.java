@@ -15,7 +15,7 @@ public class ArithmeticOperation {
 		
 		int var1;
 		int var2;
-		int var3;    /// integer type data ///
+		int var3;    // integer type data
 		int var4;
 		
 		var1 = 200;
