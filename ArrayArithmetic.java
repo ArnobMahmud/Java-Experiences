@@ -36,6 +36,6 @@ public class ArrayArithmetic {
 		average = sum / number.length;
 		System.out.println("The average is : " + average);
 		
-	}
+	} 
 
 }
