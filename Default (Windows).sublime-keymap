@@ -1,4 +1,4 @@
-[
+[ 
 	{ "keys": ["ctrl+shift+n"], "command": "new_window" },
 	{ "keys": ["ctrl+shift+w"], "command": "close_window" },
 	{ "keys": ["ctrl+o"], "command": "prompt_open_file" },
