@@ -2,7 +2,7 @@
 <java version="1.8.0_111" class="java.beans.XMLDecoder">
  <object class="org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceInfo" id="MarketplaceInfo0">
   <void property="iuToNodeKey">
-   <void method="put">
+   <void method="put"> 
     <string>org.eclipse.codewind</string>
     <object class="java.util.ArrayList">
      <void method="add">
