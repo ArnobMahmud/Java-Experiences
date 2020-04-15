@@ -1,6 +1,6 @@
 # Java-Programming
 Random exercises of basic Java programming.
-
+ 
 ![CI](https://github.com/ArnobMahmud/Java-Programming/workflows/CI/badge.svg)
 
 
