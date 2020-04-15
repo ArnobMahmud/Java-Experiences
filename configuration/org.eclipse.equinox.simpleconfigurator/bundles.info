@@ -1,7 +1,7 @@
 #encoding=UTF-8
 #version=1
 ch.qos.logback.classic,1.1.2.v20171220-1825,file:/C:/Users/user/.p2/pool/plugins/ch.qos.logback.classic_1.1.2.v20171220-1825.jar,4,false
-ch.qos.logback.core,1.1.2.v20160208-0839,file:/C:/Users/user/.p2/pool/plugins/ch.qos.logback.core_1.1.2.v20160208-0839.jar,4,false
+ch.qos.logback.core,1.1.2.v20160208-0839,file:/C:/Users/user/.p2/pool/plugins/ch.qos.logback.core_1.1.2.v20160208-0839.jar,4,false 
 ch.qos.logback.slf4j,1.1.2.v20160301-0943,file:/C:/Users/user/.p2/pool/plugins/ch.qos.logback.slf4j_1.1.2.v20160301-0943.jar,4,false
 com.genuitec.eclipse.core.common.platform,13.0.2.201909171704,file:/C:/Users/user/.p2/pool/plugins/com.genuitec.eclipse.core.common.platform_13.0.2.201909171704.jar,4,false
 com.genuitec.eclipse.inlinesearch,1.11.0.201909171704,file:/C:/Users/user/.p2/pool/plugins/com.genuitec.eclipse.inlinesearch_1.11.0.201909171704.jar,4,false
