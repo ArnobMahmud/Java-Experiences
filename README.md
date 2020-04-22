@@ -5,7 +5,7 @@ Random exercises of basic Java programming.
 
 # Java Guide Live Share & Feedback
 
-<table style="width: 300%; border-style: none;"><tr>
+<table style="width: 800%; border-style: none;"><tr>
 <td style="width: 1300px; text-align: center;"><a href="https://www.facebook.com/sharer.php?u=https://github.com/ArnobMahmud/Java-Guide"><img width="390px" src="http://3.bp.blogspot.com/_UZImdYAiry8/TGyb_5JxmsI/AAAAAAAAUtY/wFaf0Ihn0LU/s1600/java-logo.jpg" alt="Java Logo"/></a></td>
 <td>
 <strong>Java Guide Live Share</strong><br />
