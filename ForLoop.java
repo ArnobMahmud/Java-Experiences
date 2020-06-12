@@ -1,10 +1,8 @@
 /* 
+     Author : Arnob Mahmud
  
-   Author : Arnob Mahmud
- 
-   Mail : arnob.tech.me @ gmail.com 
-   
- */
+     Mail : arnob.tech.me @ gmail.com 
+*/
 
 
 package main;
