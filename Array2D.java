@@ -19,7 +19,7 @@ public class Array2D {
 		int[][] B = new int[3][3];
 		int i, j = 0, m, n = 0, sum = 0;
 		
-		      /// Inputting values of A matrix ///
+		      // Inputting values of A matrix //
 		
 		System.out.println("Enter elements for A matrix : ");
 		
@@ -33,7 +33,7 @@ public class Array2D {
 			}
 		}
 		
-		      /// Inputting values of B matrix ///
+		      // Inputting values of B matrix //
 	
 		System.out.println("Enter elements for B matrix : ");
 		
@@ -47,7 +47,7 @@ public class Array2D {
 			}
 		}
 		
-		      /// Printing of A matrix ///
+		      // Printing of A matrix //
 		
 		System.out.print("A = ");
 		for (i= 0;i < 3 ; i++)
@@ -59,8 +59,8 @@ public class Array2D {
 	    System.out.printf("\n");
 	    }
 		
-	
-	         /// Printing of B matrix ///
+
+	         // Printing of B matrix //
 	
 	    System.out.println("B = ");
 	    for (m = 0; m < 3 ; m++)
