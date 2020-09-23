@@ -1,13 +1,8 @@
 /* 
- 
    Author : Arnob Mahmud
  
    Mail : arnob.tech.me @ gmail.com
-   
- */
-
-
-package main;
+*/
 
 public class AlphabeticLoop {
 	

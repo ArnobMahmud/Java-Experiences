@@ -6,9 +6,6 @@
    
 */
 
-
-package Main;
-
 public class ArithmeticOperation {
 	
 	public static void main(String[] arg) {

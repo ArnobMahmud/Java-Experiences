@@ -5,13 +5,14 @@
 */
 
 
-package main;
 import java.util.Scanner;
 
 public class DoWhileLoop {
 	
+	private static Scanner input;
+
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+		input = new Scanner(System.in);
 		
 		int i;
 		
