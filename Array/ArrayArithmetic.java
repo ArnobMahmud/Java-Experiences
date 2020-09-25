@@ -4,7 +4,7 @@
   Mail : arnob.tech.me @ gmail.com
 */
 
-package main;
+package Array;
 import java.util.Scanner;
 
 public class ArrayArithmetic {

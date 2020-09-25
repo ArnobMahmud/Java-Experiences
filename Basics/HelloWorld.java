@@ -4,7 +4,7 @@
    Mail : arnob.tech.me @ gmail.com
 */
 
-package Main;
+package Basics;
 public class HelloWorld {
 	
 public static void main(String[] arg) {

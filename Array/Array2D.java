@@ -4,12 +4,12 @@
   Mail : arnob.tech.me @ gmail.com
 */
 
-package main;
+package Array;
 import java.util.Scanner;
 
 public class Array2D {
 
-	@SuppressWarnings({ "resource", "unused" })
+//	@SuppressWarnings({ "resource", "unused" })
 	public static void main(String[] args) {
 		
 		
@@ -17,7 +17,7 @@ public class Array2D {
 		
 		int[][] A = new int[3][3];
 		int[][] B = new int[3][3];
-		int i, j = 0, m, n = 0, sum = 0;
+		int i, j = 0, m, n = 0;
 		
 		      // Inputting values of A matrix //
 		

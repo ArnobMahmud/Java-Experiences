@@ -7,7 +7,7 @@
  */
  
 
-package main;
+package Conditions;
 
 public class IfElseCondition {
     public static void main(String[] args) {

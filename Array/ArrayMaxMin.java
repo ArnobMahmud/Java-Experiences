@@ -4,17 +4,17 @@
   Mail : arnob.tech.me @ gmail.com
 */
 
-package main;
+package Array;
 import java.util.Scanner;
 
 public class ArrayMaxMin {
 
 	private static final String UNUSED = "unused";
 
-	@SuppressWarnings(UNUSED)
+	// @SuppressWarnings(UNUSED)
 	private static Scanner input;
 	
-	@SuppressWarnings(UNUSED)
+//	@SuppressWarnings(UNUSED)
 	private static int[] number;
 
 	public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class ArrayMaxMin {
 		input = new Scanner(System.in);
 		number = new int[5];
 		
-		@SuppressWarnings(UNUSED)
+	//	@SuppressWarnings(UNUSED)
 		int max, min;
 		
 		System.out.println("Enter 5 numbers : ");

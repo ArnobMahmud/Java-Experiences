@@ -4,13 +4,15 @@
    Mail : arnob.tech.me @ gmail.com  
 */
 
-package main;
+package Conditions;
 import java.util.Scanner;
 
 public class SwitchCase {
 	
+	private static Scanner input;
+
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+		input = new Scanner(System.in);
 		
 		int CGPA;
 		

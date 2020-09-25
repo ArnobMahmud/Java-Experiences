@@ -4,17 +4,19 @@
    Mail : arnob.tech.me @ gmail.com  
 */
 
-package main;
+package Conditions;
 
 import java.util.Scanner;
 public class VowelConsonant {
 	
 	
+	private static Scanner input;
+
 	public static void main(String[] args) {
-		Scanner input = new Scanner (System.in);
+		input = new Scanner (System.in);
 		
 		char ch;
-		int arg0; 
+		// int arg0; 
 		
 		System.out.print("Enter a character :");
 		

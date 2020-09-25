@@ -4,14 +4,17 @@
    Mail : arnob.tech.me @ gmail.com  
 */
 
-package main;
+package Conditions;
+
 import java.util.Scanner;
 
 public class LeapYear {
 	
-	public static void main(String[] args) {
-		
-		Scanner input = new Scanner(System.in);
+	private static Scanner input;
+
+	public static void main(final String[] args) {
+
+		input = new Scanner(System.in);
 		int year;
 		
 		

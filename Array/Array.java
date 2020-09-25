@@ -4,7 +4,7 @@
   Mail : arnob.tech.me @ gmail.com
 */
 
-package main;
+package Array;
 public class Array {
 	
 	public static void main(String [] args) {

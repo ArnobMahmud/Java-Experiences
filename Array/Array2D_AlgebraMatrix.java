@@ -4,19 +4,19 @@
   Mail : arnob.tech.me @ gmail.com
 */
 
-package main;
+package Array;
 import java.util.Scanner;
 
 public class Array2D_AlgebraMatrix {
 
-	public static void main(String[] args) {
-		
-		@SuppressWarnings("resource")
-		Scanner input = new Scanner(System.in);
-		
-		int[][] A = new int[3][3];
-		int[][] B = new int[3][3];
-		int[][] C = new int[3][3];
+	public static void main(final String[] args) {
+
+		// @SuppressWarnings("resource")
+		final Scanner input = new Scanner(System.in);
+
+		final int[][] A = new int[3][3];
+		final int[][] B = new int[3][3];
+		final int[][] C = new int[3][3];
 		
 		int row,col = 0;
 		
