@@ -4,13 +4,13 @@
 */
 
 
-package main;
+package  Maths;
 import java.util.Scanner;
 
 public class PrimeNumber {
 	
-	private static final String UNUSED = "unused";
-    @SuppressWarnings(UNUSED)
+	// private static final String UNUSED = "unused";
+   // @SuppressWarnings(UNUSED)
     
 	public static void main(String[] args) {
 	@SuppressWarnings("resource")
@@ -45,8 +45,8 @@ public class PrimeNumber {
 		System.out.println("Total prime number :" +totalPrime);
 		
 	}
-	public static String getUnused() {
-		return UNUSED;
-	}
+	// public static String getUnused() {
+	//	return UNUSED;
+ //	}
 
 }

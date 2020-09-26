@@ -4,7 +4,7 @@
    Mail : arnob.tech.me @ gmail.com  
 */
 
-
+package Loops;
 import java.util.Scanner;
 
 public class NestedLoop {

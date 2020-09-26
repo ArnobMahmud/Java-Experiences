@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Array<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Array.Array",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Array2D<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Array.Array2D",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Array2D_AlgebraMatrix<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Array.Array2D_AlgebraMatrix",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayArithmetic<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Array.ArrayArithmetic",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayMaxMin<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Array.ArrayMaxMin",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Basics.HelloWorld",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-goodMorning<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Basics.goodMorning",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfElseCondition<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Conditions.IfElseCondition",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LeapYear<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Conditions.LeapYear",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwitchCase<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Conditions.SwitchCase",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VowelConsonant<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Conditions.VowelConsonant",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AlphabeticLoop<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Loops.AlphabeticLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoWhileLoop<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Loops.DoWhileLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForLoop<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Loops.ForLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NestedLoop<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Loops.NestedLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AreaOfCircle<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.AreaOfCircle",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AreaOfTriangle<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.AreaOfTriangle",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EvenOddNumbers<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.EvenOddNumbers",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Factorials<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.Factorials",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FibonucciSeries<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.FibonucciSeries",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GCD_LCM<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.GCD_LCM",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MathClass<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.MathClass",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeNumber<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.PrimeNumber",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Recursion<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.Recursion",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringWork<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.StringWork",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TemperatureConvert<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.TemperatureConvert",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VehConsDemo<JavaExercise_87f1346c>",
+            "request": "launch",
+            "mainClass": "Maths.VehConsDemo",
+            "projectName": "JavaExercise_87f1346c"
+        }
+    ]
+}

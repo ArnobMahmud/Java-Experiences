@@ -5,7 +5,7 @@
 */
 
 
-package main;
+package  Maths;
 import java.util.Scanner;
 
 public class MathClass {

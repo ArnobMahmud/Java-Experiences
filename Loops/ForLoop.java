@@ -4,7 +4,7 @@
      Mail : arnob.tech.me @ gmail.com 
 */
 
-
+package Loops;
 public class ForLoop {
 	
 	public static void main(String[] args) {

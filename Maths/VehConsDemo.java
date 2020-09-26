@@ -4,7 +4,7 @@
     Mail : arnob.tech.me@gmail.com
 */
 
-package main;
+package  Maths;
 
 // This is a constructor for Vehicle.
 class Vehicle {

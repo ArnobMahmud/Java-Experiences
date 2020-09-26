@@ -4,14 +4,16 @@
    Mail : arnob.tech.me @ gmail.com  
 */
 
-package main;
+package  Maths;
 import java.util.Scanner;
 
 public class TemperatureConvert {
 	
+	private static Scanner input;
+
 	public static void main(String[] args) {
 		
-		Scanner input = new Scanner(System.in);
+		input = new Scanner(System.in);
 			double c, f;
 			
 			System.out.print("Enter the value of temperature :");

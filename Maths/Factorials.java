@@ -4,7 +4,7 @@
    Mail : arnob.tech.me @ gmail.com  
 */
 
-package main;
+package  Maths;
 import java.util.Scanner;
 
 public class Factorials {
