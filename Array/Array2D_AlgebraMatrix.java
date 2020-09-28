@@ -19,9 +19,7 @@ public class Array2D_AlgebraMatrix {
 		final int[][] C = new int[3][3];
 		
 		int row,col = 0;
-		
 		      /// Inputting values of A Matrix ///
-		
 		System.out.println("Enter elements for A matrix : ");
 		
 		for ( row = 0; row < 3 ; row++)

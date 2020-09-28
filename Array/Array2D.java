@@ -8,10 +8,8 @@ package Array;
 import java.util.Scanner;
 
 public class Array2D {
-
 //	@SuppressWarnings({ "resource", "unused" })
 	public static void main(String[] args) {
-		
 		
 		Scanner input = new Scanner(System.in);
 		
@@ -20,7 +18,6 @@ public class Array2D {
 		int i, j = 0, m, n = 0;
 		
 		      // Inputting values of A matrix //
-		
 		System.out.println("Enter elements for A matrix : ");
 		
 		for ( i = 0; i < 3 ; i++)
@@ -32,7 +29,6 @@ public class Array2D {
 				
 			}
 		}
-		
 		      // Inputting values of B matrix //
 	
 		System.out.println("Enter elements for B matrix : ");
