@@ -1,22 +1,21 @@
 /* 
    Author : Arnob Mahmud
+   
    Mail : arnob.tech.me @ gmail.com  
 */
-
 
 package  Maths;
 import java.util.Scanner;
 
 public class PrimeNumber {
-	
-	// private static final String UNUSED = "unused";
-   // @SuppressWarnings(UNUSED)
-    
+
 	public static void main(String[] args) {
 	@SuppressWarnings("resource")
 		
 		Scanner input =new Scanner(System.in);
-		int m, n, i, count = 0, totalPrime = 0;
+		int m, n;
+		int i;
+		int count = 0, totalPrime = 0;
 		
 		System.out.println("Enter a starting number : ");
 		m = input.nextInt();
@@ -45,8 +44,5 @@ public class PrimeNumber {
 		System.out.println("Total prime number :" +totalPrime);
 		
 	}
-	// public static String getUnused() {
-	//	return UNUSED;
- //	}
 
 }
