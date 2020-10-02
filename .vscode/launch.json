@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Super",
+            "request": "launch",
+            "mainClass": "OOP.SuperKeyword.Super",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Abstract",
             "request": "launch",
             "mainClass": "OOP.Abstract.Abstract",
