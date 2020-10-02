@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LocalVariable",
+            "request": "launch",
+            "mainClass": "OOP.LocalVariable.LocalVariable",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThisKeyword",
+            "request": "launch",
+            "mainClass": "OOP.ThisKeyword.ThisKeyword",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MainClass",
             "request": "launch",
             "mainClass": "OOP.Method.MainClass",
