@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Constructor",
+            "request": "launch",
+            "mainClass": "OOP.Constructor.Constructor",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Inheritance",
             "request": "launch",
             "mainClass": "OOP.Inheritance.Inheritance",
