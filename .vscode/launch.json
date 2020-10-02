@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Abstract",
+            "request": "launch",
+            "mainClass": "OOP.Abstract.Abstract",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Constructor",
             "request": "launch",
             "mainClass": "OOP.Constructor.Constructor",
