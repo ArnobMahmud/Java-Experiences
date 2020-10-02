@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Static",
+            "request": "launch",
+            "mainClass": "OOP.StaticKeyword.Static",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LocalVariable",
             "request": "launch",
             "mainClass": "OOP.LocalVariable.LocalVariable",
