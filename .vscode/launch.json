@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Inheritance",
+            "request": "launch",
+            "mainClass": "OOP.Inheritance.Inheritance",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Static",
             "request": "launch",
             "mainClass": "OOP.StaticKeyword.Static",
