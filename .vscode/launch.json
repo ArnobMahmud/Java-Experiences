@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReverseRationalLoop",
+            "request": "launch",
+            "mainClass": "Loops.ReverseRationalLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RatioalLoop",
             "request": "launch",
             "mainClass": "Loops.RatioalLoop",
