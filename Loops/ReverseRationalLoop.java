@@ -12,10 +12,10 @@ public class ReverseRationalLoop {
     public static void main(String[] args) {
 
         input = new Scanner(System.in);
-        int n = input.nextInt();
+        char n = input.next().charAt(0);
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = i; j <= n; j++) {
+        for (char i = 'A'; i <= n; i++) {
+            for (char j = 'A'; j <= n; j++) {
                 System.out.print(j + " ");
             }
             System.out.println();
