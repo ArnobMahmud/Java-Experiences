@@ -1,10 +1,14 @@
-package Basics;
+/* 
+   Author : Arnob Mahmud
+ 
+   Mail : arnob.tech.me @ gmail.com
+*/
 
+package Basics;
 import java.util.Scanner;
 
 class goodMorning {
     private static Scanner input;
-
     public static void main(String[] args) {
 
         String person;
