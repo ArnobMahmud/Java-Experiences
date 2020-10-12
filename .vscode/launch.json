@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SwitchWork",
+            "request": "launch",
+            "mainClass": "Conditions.SwitchWork",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AlphabeticNestedLoop",
             "request": "launch",
             "mainClass": "Loops.AlphabeticNestedLoop",
