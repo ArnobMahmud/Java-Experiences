@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Array2DRowColumn",
+            "request": "launch",
+            "mainClass": "Array.Array2DRowColumn",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForEachLoop",
+            "request": "launch",
+            "mainClass": "Loops.ForEachLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayLoop",
             "request": "launch",
             "mainClass": "Array.ArrayLoop",
