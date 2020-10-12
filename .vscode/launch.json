@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ArrayLoop",
+            "request": "launch",
+            "mainClass": "Array.ArrayLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SwitchWork",
             "request": "launch",
             "mainClass": "Conditions.SwitchWork",
