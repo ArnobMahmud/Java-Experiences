@@ -1,5 +1,10 @@
-package Array;
+/*
+  Author : Arnob Mahmud
+  
+  Mail : arnob.tech.me @ gmail.com
+*/
 
+package Array;
 import java.util.Scanner;
 
 public class ArrayInputSum {
