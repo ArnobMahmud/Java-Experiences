@@ -1,5 +1,8 @@
 # Java Guide
 
+[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg)](https://github.com/ArnobMahmud/) &nbsp;&nbsp;
+[![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.org/)
+
 <h4> <b> Java Problem Solution along with Object Oriented Programming (OOP) concept by Arnob Mahmud. </b></h4>
 
 <h5> Stay Connected With Arnob Mahmud : </h5>
@@ -22,6 +25,7 @@
 [1]: http://www.twitter.com/@Arnob__Mahmud
 [3]: https://plus.google.com/+ArnobMahmudAM
 [6]: http://www.github.com/ArnobMahmud
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.facebook.com/arnob.mahmud.am/) &nbsp;&nbsp;
 
 # Java Guide Live Share & Feedback
 
