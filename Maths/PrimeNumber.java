@@ -4,45 +4,28 @@
    Mail : arnob.tech.me @ gmail.com  
 */
 
-package  Maths;
+package Maths;
 import java.util.Scanner;
 
 public class PrimeNumber {
+    private static Scanner input;
+    public static void main(String[] args) {
+        int number, count = 0;
 
-	public static void main(String[] args) {
-	@SuppressWarnings("resource")
-		
-		Scanner input =new Scanner(System.in);
-		int m, n;
-		int i;
-		int count = 0, totalPrime = 0;
-		
-		System.out.println("Enter a starting number : ");
-		m = input.nextInt();
-		
-		System.out.println("Enter a ending number : ");
-		n = input.nextInt();
-		
-		for ( i = m ; i <=n ; i++)
-		{
-			for ( int j = 2 ; j <= i-1; j++)  
-			{
-			  if ( i % j == 0)
-				{
-				  count ++;
-				  break;  
-				}	
-			}
-			  if ( count == 0)
-			{
-				System.out.println(i);
-				totalPrime++;
-			}
-			count = 0;                    /* After checking one number we have to
-			                                       reset count to 0 again */			
-		}
-		System.out.println("Total prime number :" +totalPrime);
-		
-	}
+        System.out.println("Enter a number to check is it prime or not : ");
+        input = new Scanner(System.in);
+        number = input.nextInt();
 
+        for (int i = 2; i < number; i++) {
+            if (number % i == 0) {
+                count ++;
+                break;
+            }
+        }
+        if (count == 0) {
+            System.out.println("It is a prime number");
+        } else {
+            System.out.println("It isn't a prime number");
+        }
+    }
 }
