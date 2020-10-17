@@ -4,6 +4,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PrintPrimeNumbers",
+            "request": "launch",
+            "mainClass": "Maths.PrintPrimeNumbers",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeNumberPrint",
+            "request": "launch",
+            "mainClass": "Maths.PrimeNumberPrint",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SeriesSquare",
             "request": "launch",
             "mainClass": "Maths.SeriesSquare",
