@@ -4,6 +4,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringsFunction",
+            "request": "launch",
+            "mainClass": "String.StringsFunction",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringIntro",
+            "request": "launch",
+            "mainClass": "String.StringIntro",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListSort",
+            "request": "launch",
+            "mainClass": "Array.ArrayListSort",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayListOperation",
             "request": "launch",
             "mainClass": "Array.ArrayListOperation",
