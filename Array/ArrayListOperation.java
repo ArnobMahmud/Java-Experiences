@@ -1,3 +1,9 @@
+/*
+    Author : Arnob Mahmud
+
+    Mail : arnob.tech.me@gmail.com
+*/
+
 package Array;
 import java.util.ArrayList;
 
@@ -13,10 +19,16 @@ public class ArrayListOperation {
 
         System.out.println(num);
 
+        System.out.println(num.indexOf(23));
+
+        boolean check1 = num.contains(20);
+        System.out.println(check1);
+
         num.clear();
         System.out.println(num);
         
-        boolean check = num.isEmpty();
-        System.out.println(check);
+        boolean check2 = num.isEmpty();
+        System.out.println(check2);
+
     }
 }
