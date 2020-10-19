@@ -4,6 +4,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ArrayListOperation",
+            "request": "launch",
+            "mainClass": "Array.ArrayListOperation",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrintPrimeNumbers",
             "request": "launch",
             "mainClass": "Maths.PrintPrimeNumbers",
