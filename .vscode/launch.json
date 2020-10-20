@@ -4,6 +4,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "OOP.MathMethod.MyClass",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringBuilderWork",
+            "request": "launch",
+            "mainClass": "String.StringBuilderWork",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringsFunction",
             "request": "launch",
             "mainClass": "String.StringsFunction",
