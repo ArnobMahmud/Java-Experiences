@@ -4,6 +4,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Multiple",
+            "request": "launch",
+            "mainClass": "Loops.Multiple",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyProphet",
+            "request": "launch",
+            "mainClass": "Prophet.MyProphet",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MainClass",
             "request": "launch",
             "mainClass": "Assignment.MainClass",
