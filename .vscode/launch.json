@@ -4,6 +4,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AreaOfSquare",
+            "request": "launch",
+            "mainClass": "Maths.AreaOfSquare",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Multiple",
             "request": "launch",
             "mainClass": "Loops.Multiple",
