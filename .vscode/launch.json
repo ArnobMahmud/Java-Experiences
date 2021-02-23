@@ -2,6 +2,14 @@
     "version": "0.2.0",
     "author" : "Arnob Mahmud",
     "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch BCSvsCSE",
+            "request": "launch",
+            "mainClass": "Array.BCSvsCSE",
+            "projectName": "JavaExercise_87f1346c"
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - AreaOfSquare",
