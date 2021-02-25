@@ -2,7 +2,20 @@
     "version": "0.2.0",
     "author" : "Arnob Mahmud",
     "configurations": [
-        
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "pwa-chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch syntax",
+            "request": "launch",
+            "mainClass": "w3Resources.syntax",
+            "projectName": "JavaExercise_87f1346c"
+        },
         {
             "type": "java",
             "name": "Launch BCSvsCSE",
