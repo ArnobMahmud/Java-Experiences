@@ -5,11 +5,12 @@
 */
 
 package Array;
+
 import java.util.ArrayList;
 
 public class ArrayListOperation {
     public static void main(String[] args) {
-        ArrayList <Integer> num = new ArrayList <Integer> ();
+        ArrayList<Integer> num = new ArrayList<Integer>();
 
         num.add(2);
         num.add(5);
@@ -26,7 +27,7 @@ public class ArrayListOperation {
 
         num.clear();
         System.out.println(num);
-        
+
         boolean check2 = num.isEmpty();
         System.out.println(check2);
 

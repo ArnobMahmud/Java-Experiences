@@ -5,6 +5,7 @@
 */
 
 package Array;
+
 import java.util.Scanner;
 
 public class ArrayInputSum {
@@ -20,12 +21,11 @@ public class ArrayInputSum {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = input.nextInt();
         }
-        
 
         for (int i = 0; i < arr.length; i++) {
             sum = sum + arr[i];
         }
 
-        System.out.println("Sum is "+ sum);
+        System.out.println("Sum is " + sum);
     }
 }

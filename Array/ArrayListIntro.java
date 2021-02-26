@@ -1,9 +1,10 @@
 package Array;
+
 import java.util.ArrayList;
 
 public class ArrayListIntro {
     public static void main(String[] args) {
-        
+
         ArrayList<Integer> num = new ArrayList<Integer>();
         System.out.println(num.size());
 
