@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 public class SeriesSquare {
     private static Scanner input;
+
     public static void main(String[] args) {
         int m, n, sum = 0;
 

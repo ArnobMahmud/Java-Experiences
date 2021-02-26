@@ -5,10 +5,12 @@
 */
 
 package Maths;
+
 import java.util.Scanner;
 
 public class serialSum {
     private static Scanner input;
+
     public static void main(final String[] args) {
         int m, n;
         int sum = 0;

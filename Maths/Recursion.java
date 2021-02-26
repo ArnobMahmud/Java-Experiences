@@ -3,7 +3,8 @@
     
     Mail : arnob.tech.me@gmail.com
 */
-package  Maths;
+package Maths;
+
 public class Recursion {
 
   public static void main(String[] args) {
@@ -14,7 +15,7 @@ public class Recursion {
 
   public static int sum(int k) {
 
-    if(k > 0) {
+    if (k > 0) {
       return k + sum(k - 1);
     } else {
 

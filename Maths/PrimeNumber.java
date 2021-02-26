@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 public class PrimeNumber {
     private static Scanner input;
+
     public static void main(String[] args) {
         int number, count = 0;
 
@@ -18,7 +19,7 @@ public class PrimeNumber {
 
         for (int i = 2; i < number; i++) {
             if (number % i == 0) {
-                count ++;
+                count++;
                 break;
             }
         }

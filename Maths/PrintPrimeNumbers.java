@@ -5,10 +5,12 @@
 */
 
 package Maths;
+
 import java.util.Scanner;
 
 public class PrintPrimeNumbers {
     private static Scanner input;
+
     public static void main(String[] args) {
 
         int m, n, count = 0, totalPrimeNum = 0;
@@ -28,9 +30,9 @@ public class PrintPrimeNumbers {
                 }
             }
             if (count == 0) {
-                totalPrimeNum ++;
-                System.out.println( i );
-            } 
+                totalPrimeNum++;
+                System.out.println(i);
+            }
             count = 0;
         }
         System.out.println("Total prime numbers : " + totalPrimeNum);

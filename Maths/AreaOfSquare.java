@@ -5,11 +5,13 @@
 */
 
 package Maths;
+
 import java.util.Scanner;
 
 public class AreaOfSquare {
 
     private static Scanner input;
+
     public static void main(String[] args) {
         input = new Scanner(System.in);
         double a, sum = 0;
