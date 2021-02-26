@@ -5,23 +5,23 @@
 */
 
 package DataTypes;
-import java.util.Scanner;     
 
-public class ScannerInput{
+import java.util.Scanner;
+
+public class ScannerInput {
 
 	private static Scanner input;
 
-	public static void main (String[] args) {
-		
-	  input = new Scanner (System.in);
+	public static void main(String[] args) {
+
+		input = new Scanner(System.in);
 		int number;
-		
+
 		System.out.println("Enter any number : ");
-		
-		
+
 		number = input.nextInt();
-		System.out.println("Number : " +number);
-		
+		System.out.println("Number : " + number);
+
 	}
- 
+
 }

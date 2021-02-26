@@ -5,13 +5,14 @@
 */
 
 package Loops;
+
 import java.util.Scanner;
 
 public class AlphabeticNestedLoop {
     private static Scanner input;
 
     public static void main(String[] args) {
-        
+
         input = new Scanner(System.in);
         char c = input.next().charAt(0);
 

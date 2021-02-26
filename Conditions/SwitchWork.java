@@ -5,10 +5,12 @@
  */
 
 package Conditions;
+
 import java.util.Scanner;
 
 class SwitchWork {
   private static Scanner input;
+
   public static void main(String[] args) {
     int num;
 
@@ -30,7 +32,7 @@ class SwitchWork {
         System.out.println("Four");
         break;
       default:
-      System.out.println("Five");
+        System.out.println("Five");
         break;
     }
   }
