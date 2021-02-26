@@ -5,26 +5,8 @@
 
 <h4> <b> Java Problem Solution along with Object Oriented Programming (OOP) concept by Arnob Mahmud. </b></h4>
 
-<h5> Stay Connected With Arnob Mahmud : </h5>
+![code](https://user-images.githubusercontent.com/60808266/109324698-37f64c00-787f-11eb-9f0a-b02844da8bab.png)
 
-[![alt text][2.1]][2]
-[![alt text][1.1]][1]
-[![alt text][3.1]][3]
-[![alt text][6.1]][6]
-
-<!-- icons with padding -->
-
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to social media accounts -->
-
-[2]: http://www.facebook.com/arnob.mahmud.am
-[1]: http://www.twitter.com/@Arnob__Mahmud
-[3]: https://plus.google.com/+ArnobMahmudAM
-[6]: http://www.github.com/ArnobMahmud
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.facebook.com/arnob.mahmud.am/) &nbsp;&nbsp;
 
 # Java Guide Live Share & Feedback
