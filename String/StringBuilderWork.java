@@ -5,17 +5,15 @@
 */
 
 package String;
-
 public class StringBuilderWork {
     public static void main(String[] args) {
 
-        StringBuilder str = new StringBuilder("Arnob");       // changable string 
+        StringBuilder str = new StringBuilder("Arnob"); // changable string
 
-        str.append(" Mahmud");      // joins two string
+        str.append(" Mahmud"); // joins two string
         System.out.println(str);
 
         System.out.println(str.reverse());
-
-        System.out.println(str.delete(5, 9));  // M, " ", b, o will be deleted
+        System.out.println(str.delete(5, 9)); // M, " ", b, o will be deleted
     }
 }

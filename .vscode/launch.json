@@ -18,13 +18,6 @@
         },
         {
             "type": "java",
-            "name": "Launch BCSvsCSE",
-            "request": "launch",
-            "mainClass": "Array.BCSvsCSE",
-            "projectName": "JavaExercise_87f1346c"
-        },
-        {
-            "type": "java",
             "name": "CodeLens (Launch) - AreaOfSquare",
             "request": "launch",
             "mainClass": "Maths.AreaOfSquare",

@@ -5,7 +5,6 @@
 */
 
 package String;
-
 public class StringsFunction {
     public static void main(String[] args) {
         String name = new String("arnob mahmud");

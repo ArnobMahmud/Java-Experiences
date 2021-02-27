@@ -1,5 +1,10 @@
-package String;
+/*
+    Author : Arnob Mahmud
 
+    Mail : arnob.tech.me@gmail.com
+*/
+
+package String;
 public class StringOperation {
     public static void main(String[] args) {
         String myFirstNmae = "Arnob";

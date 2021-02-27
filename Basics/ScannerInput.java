@@ -18,7 +18,7 @@ class goodMorning {
         morningWish(person);
     }
 
-    public static void morningWish(String girl) {
-        System.out.println("Good Morning " + girl);
+    public static void morningWish(String developer) {
+        System.out.println("Good Morning " + developer);
     }
 }
