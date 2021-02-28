@@ -1,7 +1,41 @@
 {
     "version": "0.2.0",
-    "author" : "Arnob Mahmud",
+    "author": "Arnob Mahmud",
     "configurations": [
+        {
+            "type": "java",
+            "name": "Launch methods",
+            "request": "launch",
+            "mainClass": "w3Resources.methods",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch array2D",
+            "request": "launch",
+            "mainClass": "w3Resources.array2D",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "w3Resources.arrays",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayLoops",
+            "request": "launch",
+            "mainClass": "w3Resources.arrayLoops",
+            "projectName": "JavaExercise_87f1346c"
+        },
         {
             "name": "Attach to Chrome",
             "port": 9222,
