@@ -4,6 +4,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch recursion",
+            "request": "launch",
+            "mainClass": "w3Resources.recursion",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch methodOverloading",
+            "request": "launch",
+            "mainClass": "w3Resources.methodOverloading",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch methodsParameter",
+            "request": "launch",
+            "mainClass": "w3Resources.methodsParameter",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch methods",
             "request": "launch",
             "mainClass": "w3Resources.methods",
