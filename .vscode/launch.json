@@ -4,6 +4,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Encapsulation",
+            "request": "launch",
+            "mainClass": "w3Resources.Encapsulation.Encapsulation",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch objectsIntro",
             "request": "launch",
             "mainClass": "w3Resources.objectsIntro",
