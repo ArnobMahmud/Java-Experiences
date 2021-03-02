@@ -4,6 +4,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch polymorphism",
+            "request": "launch",
+            "mainClass": "w3Resources.OOP.Polymorphism.polymorphism",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch inheritClass",
             "request": "launch",
             "mainClass": "w3Resources.OOP.Inheritance.inheritClass",
