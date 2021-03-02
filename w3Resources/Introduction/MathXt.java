@@ -1,6 +1,6 @@
 package w3Resources.Introduction;
 
-public class math {
+public class MathXt {
     public static void main(String[] args) {
 
         System.out.println(Math.max(5, 10));

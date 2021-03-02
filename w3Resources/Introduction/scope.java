@@ -1,6 +1,6 @@
 package w3Resources.Introduction;
 
-public class scope {
+public class Scope {
     public static void main(String[] args) {
         // Code here CANNOT use x
 

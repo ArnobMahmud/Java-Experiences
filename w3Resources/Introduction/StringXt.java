@@ -1,6 +1,6 @@
 package w3Resources.Introduction;
 
-public class string {
+public class StringXt {
     public static void main(String[] args) {
         String firstName = "John";
         String lastName = "Doe";

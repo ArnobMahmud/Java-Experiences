@@ -1,6 +1,6 @@
 package w3Resources.Introduction;
 
-public class operators {
+public class Operators {
     public static void main(String[] args) {
 
         int var1;

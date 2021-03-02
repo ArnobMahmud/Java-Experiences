@@ -1,6 +1,6 @@
 package w3Resources.Introduction;
 
-public class dataTypes {
+public class DataTypes {
     public static void main(String[] args) {
 
         int myNum = 5; // Integer (whole number)
