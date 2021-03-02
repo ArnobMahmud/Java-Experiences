@@ -1,6 +1,6 @@
 package w3Resources.Methods;
 
-public class classMethod {
+public class ClassMethod {
     
     static void myMethod() {
         System.out.println("Hello World!");

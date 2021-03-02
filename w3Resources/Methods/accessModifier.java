@@ -1,6 +1,6 @@
 package w3Resources.Methods;
 
-public class accessModifier {
+public class AccessModifier {
     // Static method
     static void myStaticMethod() {
         System.out.println("Static methods can be called without creating objects");
@@ -16,7 +16,7 @@ public class accessModifier {
         myStaticMethod(); // Call the static method
         // myPublicMethod(); This would output an error
 
-        accessModifier myObj = new accessModifier(); // Create an object of Main
+        AccessModifier myObj = new AccessModifier(); // Create an object of Main
         myObj.myPublicMethod(); // Call the public method
     }
 }

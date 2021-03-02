@@ -1,6 +1,6 @@
 package w3Resources.Methods;
 
-public class methodsParameter {
+public class MethodsParameter {
     public static void main(String[] args) {
         myMethod("Liam", 5);
         myMethod("Jenny", 8);

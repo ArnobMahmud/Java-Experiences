@@ -1,6 +1,6 @@
 package w3Resources.Methods;
 
-public class methodOverloading {
+public class MethodOverloading {
     public static void main(String[] args) {
 
         int myNum1 = plusMethodInt(8, 5);
