@@ -4,6 +4,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch abstraction",
+            "request": "launch",
+            "mainClass": "w3Resources.OOP.Abstraction.abstraction",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch staticInner",
+            "request": "launch",
+            "mainClass": "w3Resources.OOP.Abstraction.staticInner",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch polymorphism",
             "request": "launch",
             "mainClass": "w3Resources.OOP.Polymorphism.polymorphism",
