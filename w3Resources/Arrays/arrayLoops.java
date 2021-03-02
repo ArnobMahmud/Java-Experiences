@@ -1,6 +1,6 @@
 package w3Resources.Arrays;
 
-public class arrayLoops {
+public class ArrayLoops {
     public static void main(String[] args) {
         String[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
         for (int i = 0; i < cars.length; i++) {

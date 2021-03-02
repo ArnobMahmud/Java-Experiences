@@ -1,6 +1,6 @@
 package w3Resources.Arrays;
 
-public class array2D {
+public class Array2D {
     public static void main(String[] args) {
         int[][] myNumbers = { { 1, 2, 3, 4 }, { 5, 6, 7 } };
         for (int i = 0; i < myNumbers.length; ++i) {

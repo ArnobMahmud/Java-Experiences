@@ -4,6 +4,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FormattingDateTime",
+            "request": "launch",
+            "mainClass": "w3Resources.ClassFunctionalities.FormattingDateTime",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateTime",
+            "request": "launch",
+            "mainClass": "w3Resources.ClassFunctionalities.DateTime",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Time",
+            "request": "launch",
+            "mainClass": "w3Resources.ClassFunctionalities.Time",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Date",
+            "request": "launch",
+            "mainClass": "w3Resources.ClassFunctionalities.Date",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "w3Resources.ClassFunctionalities.Interface",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enum",
+            "request": "launch",
+            "mainClass": "w3Resources.ClassFunctionalities.Enum",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch abstraction",
             "request": "launch",
             "mainClass": "w3Resources.OOP.Abstraction.abstraction",
