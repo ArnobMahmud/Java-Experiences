@@ -4,6 +4,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch inheritClass",
+            "request": "launch",
+            "mainClass": "w3Resources.OOP.Inheritance.inheritClass",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch inherit",
+            "request": "launch",
+            "mainClass": "w3Resources.OOP.Inheritance.inherit",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch abstractKeyword",
+            "request": "launch",
+            "mainClass": "w3Resources.OOP.Abstract.abstractKeyword",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch Encapsulation",
             "request": "launch",
             "mainClass": "w3Resources.Encapsulation.Encapsulation",
