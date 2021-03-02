@@ -1,13 +1,13 @@
 package w3Resources.OOP.Inheritance;
 
-public class inheritClass extends myClass {
+public class InheritClass extends MyClass {
 
     private String modelName = "Mustang"; // Car attribute
 
     public static void main(String[] args) {
 
         // Create a myCar object
-        inheritClass myCar = new inheritClass();
+        InheritClass myCar = new InheritClass();
 
         // Call the honk() method (from the myClass class) on the myCar object
         myCar.honk();

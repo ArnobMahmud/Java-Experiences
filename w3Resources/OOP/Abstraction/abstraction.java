@@ -9,7 +9,7 @@ class OuterClass {
         }
     }
 }
-public class abstraction {
+public class Abstraction {
     public static void main(String[] args) {
         
         OuterClass myOuter = new OuterClass();

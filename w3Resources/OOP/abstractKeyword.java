@@ -18,7 +18,7 @@ class Student extends myClass {
     }
 }
 
-public class abstractKeyword {
+public class AbstractKeyword {
     public static void main(String[] args) {
 
         Student myObj = new Student();

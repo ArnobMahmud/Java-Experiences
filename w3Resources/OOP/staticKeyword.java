@@ -1,6 +1,6 @@
 package w3Resources.OOP;
 
-public class staticKeyword {
+public class StaticKeyword {
 
     // Static method
     static void myStaticMethod() {
@@ -16,7 +16,7 @@ public class staticKeyword {
         myStaticMethod(); // Call the static method
         // myPublicMethod(); This would output an error
 
-        staticKeyword myObj = new staticKeyword(); // Create an object of staticKeyword
+        StaticKeyword myObj = new StaticKeyword(); // Create an object of staticKeyword
         myObj.myPublicMethod(); // Call the public method
     }
 }

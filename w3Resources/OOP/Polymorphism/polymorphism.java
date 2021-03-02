@@ -1,11 +1,11 @@
 package w3Resources.OOP.Polymorphism;
 
-public class polymorphism {
+public class Polymorphism {
     public static void main(String[] args) {
 
-        animals myAnimals = new animals(); // Create a Animal object
-        cats myCats = new cats();   // Create a cat object
-        dogs myDogs = new dogs();   // Create a dog object
+        Animals myAnimals = new Animals(); // Create a Animal object
+        Cats myCats = new Cats();   // Create a cat object
+        Dogs myDogs = new Dogs();   // Create a dog object
 
         myAnimals.animalSound();
         myCats.animalSound();

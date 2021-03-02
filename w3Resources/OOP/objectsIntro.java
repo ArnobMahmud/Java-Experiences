@@ -1,9 +1,9 @@
 package w3Resources.OOP;
 
-public class objectsIntro {
+public class ObjectsIntro {
     int x = 7;
     public static void main(String[] args) {
-        objectsIntro obj = new objectsIntro();
+        ObjectsIntro obj = new ObjectsIntro();
         System.out.println(obj.x);
     }
 }

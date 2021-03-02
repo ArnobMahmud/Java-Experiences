@@ -7,7 +7,7 @@ class OuterClass2 {
         int y = 5;
     }
 }
-public class staticInner {
+public class StaticInner {
     public static void main(String[] args) {
         OuterClass2.InnerClass myInner = new OuterClass2.InnerClass();
         System.out.println(myInner.y);
