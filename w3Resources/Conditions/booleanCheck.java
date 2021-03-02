@@ -1,6 +1,6 @@
 package w3Resources.Conditions;
 
-public class booleanCheck {
+public class BooleanCheck {
     public static void main(String[] args) {
         boolean isJavaFun = true;
         boolean isFishTasty = false;

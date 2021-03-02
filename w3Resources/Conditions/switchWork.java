@@ -1,6 +1,6 @@
 package w3Resources.Conditions;
 
-public class switchWork {
+public class SwitchWork {
   public static void main(String[] args) {
     int day = 4;
     switch (day) {

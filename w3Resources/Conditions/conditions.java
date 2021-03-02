@@ -1,6 +1,6 @@
 package w3Resources.Conditions;
 
-public class conditions {
+public class Conditions {
     public static void main(String[] args) {
         int x = 20;
         int y = 18;
