@@ -1,6 +1,6 @@
 package w3Resources.Loops;
 
-public class doWhileLoop {
+public class DoWhileLoop {
     public static void main(String[] args) {
         int i = 0;
         do {

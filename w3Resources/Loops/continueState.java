@@ -1,6 +1,6 @@
 package w3Resources.Loops;
 
-public class continueState {
+public class ContinueState {
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
             if (i == 4) {
