@@ -4,6 +4,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayListSort",
+            "request": "launch",
+            "mainClass": "w3Resources.Arrays.ArrayListSort",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListItemAdd",
+            "request": "launch",
+            "mainClass": "w3Resources.Arrays.ArrayListItemAdd",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch FormattingDateTime",
             "request": "launch",
             "mainClass": "w3Resources.ClassFunctionalities.FormattingDateTime",
