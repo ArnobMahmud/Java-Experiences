@@ -4,6 +4,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Throw",
+            "request": "launch",
+            "mainClass": "w3Resources.Exceptions.Throw",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Finally",
+            "request": "launch",
+            "mainClass": "w3Resources.Exceptions.Finally",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch TryCatch",
+            "request": "launch",
+            "mainClass": "w3Resources.Exceptions.TryCatch",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaExpression",
+            "request": "launch",
+            "mainClass": "w3Resources.LambdaExpression",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch HashSetLoop",
             "request": "launch",
             "mainClass": "w3Resources.Map.HashSetLoop",
