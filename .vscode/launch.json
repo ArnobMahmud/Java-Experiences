@@ -4,6 +4,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HashSetLoop",
+            "request": "launch",
+            "mainClass": "w3Resources.Map.HashSetLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetOperation",
+            "request": "launch",
+            "mainClass": "w3Resources.Map.HashSetOperation",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapLoop",
+            "request": "launch",
+            "mainClass": "w3Resources.Map.HashMapLoop",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasMapOperation",
+            "request": "launch",
+            "mainClass": "w3Resources.Map.HasMapOperation",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListXt",
+            "request": "launch",
+            "mainClass": "w3Resources.Arrays.LinkedListXt",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayListSort",
             "request": "launch",
             "mainClass": "w3Resources.Arrays.ArrayListSort",
