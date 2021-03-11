@@ -4,6 +4,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RegEx",
+            "request": "launch",
+            "mainClass": "w3Resources.Threads.RegEx",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lambda",
+            "request": "launch",
+            "mainClass": "w3Resources.Threads.Lambda",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch AliveConcurrency",
+            "request": "launch",
+            "mainClass": "w3Resources.Threads.AliveConcurrency",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Concurrency",
+            "request": "launch",
+            "mainClass": "w3Resources.Threads.Concurrency",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunningThread",
+            "request": "launch",
+            "mainClass": "w3Resources.Threads.RunningThread",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch Throw",
             "request": "launch",
             "mainClass": "w3Resources.Exceptions.Throw",
