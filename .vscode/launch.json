@@ -4,6 +4,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch WrapperClasses",
+            "request": "launch",
+            "mainClass": "w3Resources.ClassFunctionalities.WrapperClasses",
+            "projectName": "JavaExercise_87f1346c"
+        },
+        {
+            "type": "java",
             "name": "Launch RegEx",
             "request": "launch",
             "mainClass": "w3Resources.Threads.RegEx",
