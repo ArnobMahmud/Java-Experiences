@@ -1,14 +1,41 @@
 # Java Guide
 
-[![](https://img.shields.io/badge/License-MIT-critical?style=plastic&logo=appveyor)](https://github.com/ArnobMahmud/Java-Guide/blob/master/LICENSE) &nbsp;&nbsp; 
-[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=3a388a&labelColor=lightgrey)](https://github.com/ArnobMahmud/) &nbsp;&nbsp;
-[![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg?style=plastic&logo=java&color=blueviolet&logoColor=important&labelColor=292844)](https://www.java.org/)
+[![](https://img.shields.io/badge/License-MIT-critical?style=plastic&logo=appveyor)](https://github.com/ArnobMahmud/Java-Guide/blob/master/LICENSE)&nbsp; 
+[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=d1ffe3)](https://github.com/ArnobMahmud/)&nbsp;
+[![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg?style=plastic&logo=java&logoColor=fc1e1e&color=blueviolet&labelColor=f5deff)](https://www.java.org/)
 
 <h4> <b> Java Problem Solution along with Object Oriented Programming (OOP) concept by Arnob Mahmud. </b></h4>
 
 ![code](https://user-images.githubusercontent.com/60808266/109324698-37f64c00-787f-11eb-9f0a-b02844da8bab.png)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=plastic&logo=home-assistant)](https://m.me/arnob.mahmud.am/) &nbsp;&nbsp;
+### **Topics analyzed 👍🏻**
+- **Intro**
+- **Syntax**
+- **Data Types**
+- **Conditions**
+- **Loops**
+- **Maths**
+- **Function**
+- **Pointer**
+- **Array**
+- **String**
+- **Linked List**
+- **OOP**
+  - **Class**
+  - **Objects**
+  - **Method**
+  - **Constructor**
+  - **Encapsulation**
+  - **Inheritance**
+  - **Abstraction** 
+  - **Polymorphism**
+- **Maps**
+- **Sets**
+- **File Handling**
+- **Exceptions Handling**
+- **Threads**
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=plastic&logo=Aer-Lingus&logoColor=e8b6fc)](https://m.me/arnob.mahmud.am/) &nbsp;&nbsp;
 
 # Java Guide Live Share & Feedback
 
